@@ -1,4 +1,4 @@
-<h1>Welcome to the OwlandLetters.com</h1>
+<h1>Welcome to the a OwlandLetters.com</h1>
   <h3>Please fill in this form to create a account.</h3>
 
  <form:form modelAttribute="user">
