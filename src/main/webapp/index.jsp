@@ -1,4 +1,5 @@
-<h1>Welcome to the OwnlandLetters.com</h1>
+<title> Nara's project </title>
+<h1>Welcome to OwnlandLetters.com</h1>
   <h3>Please fill in this form to create an account.</h3>
 
  <form:form modelAttribute="user">
